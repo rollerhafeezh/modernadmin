@@ -40,6 +40,9 @@ html {
       padding-right: 0; }
     html body.bg-full-screen-image {
       background: url(../images/backgrounds/bg-2.jpg) no-repeat center center fixed;
+	backdrop-filter: blur(2px);
+	-moz-backdrop-filter: blur(2px);
+	-webkit-backdrop-filter: blur(2px);
       background-size: cover; }
     html body .pace .pace-progress {
       background: #1c90d8; }
