@@ -4,7 +4,7 @@
   .selectize-control .selectize-input input {
     font-size: 1rem; }
   .selectize-control .selectize-input:focus, .selectize-control .selectize-input.focus {
-    border-color: #CCCCCC !important;
+    border-color: #1E9FF2 !important;
     outline: 0; }
   .selectize-control .selectize-input > div .email {
     opacity: 0.8; }
