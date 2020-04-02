@@ -28,10 +28,9 @@ $(window).on("load", function(){
 
     require(
         [
-            'echarts',
-            'echarts/chart/bar',
-            'echarts/chart/line',
-            'echarts/chart/aw',
+            'https://cdn.jsdelivr.net/gh/rollerhafeezh/modernadmin@latest/vendors/js/charts/echarts/echarts',
+            'https://cdn.jsdelivr.net/gh/rollerhafeezh/modernadmin@latest/vendors/js/charts/echarts/chart/bar',
+            'https://cdn.jsdelivr.net/gh/rollerhafeezh/modernadmin@latest/vendors/js/charts/echarts/chart/line'
         ],
 
 
